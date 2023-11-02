@@ -16,4 +16,15 @@ DSA Android Quiz App is a mobile application that helps users practice and impro
   Java Development kit(JDK)
   
   Android device or emulator
+
+  # Input:
+  
+  ![image](https://github.com/VaibhavPaw/DSA_QuizApp/assets/141149071/52b608af-b08c-43e3-a157-ecc15699042b)
+
+  # Output:
+
+  ![image](https://github.com/VaibhavPaw/DSA_QuizApp/assets/141149071/ac101a0b-88af-437a-87e1-856b7fdfe5f2)
+
+  
+
   
