@@ -12,6 +12,8 @@ DSA Android Quiz App is a mobile application that helps users practice and impro
 
 # Prerequisites
   Android Studio
+  
   Java Development kit(JDK)
+  
   Android device or emulator
   
